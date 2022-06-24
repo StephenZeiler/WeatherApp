@@ -1,0 +1,11 @@
+.Search-Bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.Search-Bar input {
+    width: 30em;
+    margin: 1em;
+}
